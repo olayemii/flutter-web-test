@@ -1,7 +1,8 @@
 This is a fun project, and so, not much work time have been put into it.
 
-√ Not Totally Responsive 👀
-√ Some performance issues noticed 👀
+⛔ Not Totally Responsive 👀
+
+⛔ Some performance issues noticed 👀
 
 ![](https://res.cloudinary.com/olayemii/image/upload/v1611791079/Screenshot_2021-01-28_at_00.42.20_vjlh8i.png)
 
