@@ -1,7 +1,8 @@
 This is a fun project, and so, not much work time have been put into it.
 
-√ Not Totally Responsive 👀
-√ Some performance issues noticed 👀
+⛔ Not Totally Responsive 👀
+
+⛔ Some performance issues noticed 👀
 
 ![](https://res.cloudinary.com/olayemii/image/upload/v1611791079/Screenshot_2021-01-28_at_00.42.20_vjlh8i.png)
 
@@ -11,4 +12,4 @@ This is a fun project, and so, not much work time have been put into it.
 
 ![](https://res.cloudinary.com/olayemii/image/upload/v1611791079/Screenshot_2021-01-28_at_00.42.59_zywee9.png)
 
-![](https://res.cloudinary.com/olayemii/video/upload/v1611791150/Screen_Recording_2021-01-28_at_00.31.47_xuhzkq.mov)
+![](https://res.cloudinary.com/olayemii/image/upload/v1611791076/Screenshot_2021-01-28_at_00.42.44_ozyqsb.png)
