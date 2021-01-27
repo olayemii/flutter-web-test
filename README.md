@@ -4,6 +4,9 @@ This is a fun project, and so, not much work time have been put into it.
 
 ⛔ Some performance issues noticed 👀
 
+
+👉 Design was inspired by a design on Uplabs
+
 ![](https://res.cloudinary.com/olayemii/image/upload/v1611791079/Screenshot_2021-01-28_at_00.42.20_vjlh8i.png)
 
 ![](https://res.cloudinary.com/olayemii/image/upload/v1611791079/Screenshot_2021-01-28_at_00.42.34_b1qawx.png)
