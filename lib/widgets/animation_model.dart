@@ -30,7 +30,7 @@ Duration getSlideItemAnimationDuration(
   return Duration(
       milliseconds: items.firstWhere((element) => element.id == id).visible
           ? items.firstWhere((element) => element.id == id).entryDuration
-          : double.infinity);
+          : 2001);
 }
 
 bool getSlideItemAnimationVisibility(
